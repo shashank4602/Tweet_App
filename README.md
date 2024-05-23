@@ -1,4 +1,4 @@
-# spring-boot-tweet-app
+# Spring-boot-Tweet-App
 
 Sample tweeter app to demonstrate springboot features;
 
